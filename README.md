@@ -1,6 +1,6 @@
-# Next + React + TypeScript + WindiCss
+# Next + React + TypeScript + ReactRedux + WindiCss
 
-This template will help you start developing in Next using React TypeScript WindiCSS.
+This template will help you start developing in Next using React TypeScript ReactRedux WindiCSS.
 
 **Editor:**
 
